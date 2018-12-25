@@ -4,15 +4,5 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+என் பெயர் விக்னேஷ். இந்த வலைப்பதிவு பல தலைப்புகளில் எனக்குள் தோன்றும் கேள்விகள் அவற்றுக்கான பதிகளின் தொகுப்பு. படித்தமைக்கு நன்றி. <br>
+<center><h1> !! ஜெய் ஹிந்த் !!</h1></center>
